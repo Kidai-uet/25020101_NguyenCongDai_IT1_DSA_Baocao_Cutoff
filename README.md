@@ -13,3 +13,5 @@ Bài nộp project cutoff merge sort
 
 •	File đồ thị của các trường hợp N
 
+Và file báo cáo cuối cùng 25020101_NguyenCongDai_Baocao_DSA_IT1.pdf
+
