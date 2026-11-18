@@ -5,9 +5,9 @@ Bài nộp project cutoff merge sort
 
 •	Insertion.java (Cài đặt Insertion sort chuẩn giáo trình)
 
-•	Benchmark.java (File định nghĩa các loại dữ liệu)
+•	Benchmark.java (File tạo các lần chạy trung bình kiểm thử và ghi dữ liệu)
 
-•	ArrayGenerator.java (File tạo các lần chạy trung bình kiểm thử và ghi dữ liệu)
+•	ArrayGenerator.java (File định nghĩa các loại dữ liệu)
 
 •	Data-test.csv (File dữ liệu test)
 
